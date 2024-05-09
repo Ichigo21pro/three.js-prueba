@@ -10,6 +10,7 @@ INGLES
 **In this Three.js project, we are testing the basics. It's a game where cubes are 
 generated, increasing in number over time, and you have to dodge them using "AWSD" 
 and "space" to jump.**
+----------------------------------------------------------------------------------
 
 try the game here:
  https://three-js-prueba.vercel.app/
