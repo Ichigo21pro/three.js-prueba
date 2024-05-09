@@ -1,9 +1,9 @@
 ----------------------------------------------------------------------------------
 ESPAÑOL
 ----------------------------------------------------------------------------------
-En este proyecto de Three.js probamos lo básico, es un juego donde se generan cubos
+**En este proyecto de Three.js probamos lo básico, es un juego donde se generan cubos
 que van aumentando la cantidad con el tiempo y tienes que esquivarlo con "AWSD" y
-"space" para saltar
+"space" para saltar**
 ----------------------------------------------------------------------------------
 INGLES
 ----------------------------------------------------------------------------------
